@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-more changes
-=======
-test
->>>>>>> refs/remotes/origin/test
+more changes3
